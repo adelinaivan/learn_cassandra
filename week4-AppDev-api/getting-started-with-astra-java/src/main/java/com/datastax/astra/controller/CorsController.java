@@ -9,7 +9,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 /**
  * Allows CORS Filter
  *
- * @author Cedrick LUNVEN (@clunven)
  */
 @Configuration
 public class CorsController implements WebMvcConfigurer {
